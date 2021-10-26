@@ -1,0 +1,23 @@
+.nav
+{
+  grid-area: n;
+  background-color: blue;
+  padding: 8px;
+}
+.linkContent
+{
+  cursor: pointer;
+  color: white;
+}
+.linkContent:hover
+{
+  color: red;
+}
+.containerUl
+{
+  text-align: center;
+}
+.listMain
+{
+  color: beige;
+}
